@@ -40,4 +40,4 @@ Each of these actions will send a JSON payload to the webhook receiver and get s
 📦 Connected Repositories
 Webhook Receiver App: [WebHook-repo](https://github.com/ShivamIT23/tsk-public-assignment-webhook-repo)
 
-Live UI: [Link](https://tsk-public-assignment-webhook-repo-jeh7.onrender.com/)
+Live UI: [Link](https://tsk-public-assignment-webhook-repo-jeh7.onrender.com/events-ui)
